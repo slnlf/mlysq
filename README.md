@@ -1,4 +1,3 @@
-# mlysq
 
 -- First create a part and call it "Button"
 -- MAKE SURE TO CHANGE THE NAME IF YOUR PART IS CALLED OTHER THAN "Button" !!
@@ -14,4 +13,4 @@ local humanoid = otherPart.Parent:FindFirstChild("Humanoid")  -- the humanoid va
 	end
 end)
  
-@mlysq on yt
+-- @mlysq on yt
